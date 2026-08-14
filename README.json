@@ -867,7 +867,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-24T20:59:53Z",
+            "last_commit": "2026-08-14T11:42:54Z",
             "owner": "somespecialone",
             "repo": "aiosteampy",
             "stars": 106
@@ -986,7 +986,7 @@
             "last_commit": "2026-07-13T14:50:00Z",
             "owner": "Longi94",
             "repo": "JavaSteam",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:51:10.825Z",
+    "last_updated": "2026-08-14T13:46:17.190Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
     "enhanced_repository": "enhansome/enhansome-steam",

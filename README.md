@@ -36,7 +36,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,112 | 🐛 61 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
+* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,112 | 🐛 62 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
 * [steam](https://github.com/seishun/node-steam) ⚠️ Archived - Interface directly with Steam servers from Node.js.
 * [vapor](https://github.com/scholtzm/vapor) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-11 - Lightweight Steam client framework.
 * [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 74 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 - A Node.js wrapper for Steamworks SDK.
@@ -128,7 +128,7 @@ The purpose of this document is to provide a quick overview over existing packag
 * [steam](https://github.com/ValvePython/steam) ⭐ 1,278 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
 * [steampy](https://github.com/bukson/steampy) ⭐ 666 | 🐛 91 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
-* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 106 | 🐛 7 | 🌐 Python | 📅 2026-07-24 - Trade and interact with Steam market, WebAPI, SteamGuard.
+* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 106 | 🐛 7 | 🌐 Python | 📅 2026-08-14 - Trade and interact with Steam market, WebAPI, SteamGuard.
 * [steamodd](https://github.com/Lagg/steamodd) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Steam tools library.
 * [Steam-Trade](https://github.com/Zwork101/steam-trade) ⚠️ Archived - An asynchronous, event-based trade library.
 
@@ -148,7 +148,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Java
 
-* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 142 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-13 - Java library that provides an interface to directly interact with Valve's Steam servers.
+* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 143 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-13 - Java library that provides an interface to directly interact with Valve's Steam servers.
 * [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) ⭐ 51 | 🐛 4 | 🌐 Java | 📅 2018-07-18 - Java port of SteamKit.
 
 ### Objective-C
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
