@@ -39,7 +39,7 @@ The purpose of this document is to provide a quick overview over existing packag
 * [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,112 | 🐛 62 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
 * [steam](https://github.com/seishun/node-steam) ⚠️ Archived - Interface directly with Steam servers from Node.js.
 * [vapor](https://github.com/scholtzm/vapor) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-11 - Lightweight Steam client framework.
-* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 74 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 - A Node.js wrapper for Steamworks SDK.
+* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 74 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-15 - A Node.js wrapper for Steamworks SDK.
 * [steam-client](https://github.com/DoctorMcKay/node-steam-client) ⚠️ Archived - API-compatible fork of node-steam's SteamClient.
 * [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) ⚠️ Archived - Simple base class for a Steam bot.
 
@@ -65,8 +65,8 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Community & Store Automation
 
-* [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - Interact with steamcommunity.com. Also allows to confirm trade offers.
-* [steamstore](https://github.com/DoctorMcKay/node-steamstore) ⭐ 70 | 🐛 4 | 🌐 JavaScript | 📅 2024-09-03 - Interact with store.steampowered.com.
+* [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 577 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - Interact with steamcommunity.com. Also allows to confirm trade offers.
+* [steamstore](https://github.com/DoctorMcKay/node-steamstore) ⭐ 69 | 🐛 4 | 🌐 JavaScript | 📅 2024-09-03 - Interact with store.steampowered.com.
 * [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) ⚠️ Archived - Retrieve SteamCommunity cookies if you are running Steam network client.
 * [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) ⚠️ Archived - Automatically registers and retrieves Steam API key.
 * [steam-parental](https://github.com/Alex7Kom/node-steam-parental) ⚠️ Archived - Disable parental lock.
@@ -79,7 +79,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Misc
 
-* [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - Easily generate 2FA codes used by Steam.
+* [steam-totp](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - Easily generate 2FA codes used by Steam.
 * [steam-chat-bot](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) ⚠️ Archived - Simplified interface for a steam chat bot.
 * [steamid](https://github.com/DoctorMcKay/node-steamid) ⭐ 74 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-20 - SteamID usage and conversion made easy.
 * [steam-resources](https://github.com/seishun/node-steam-resources) ⚠️ Archived - Steam's enums, protobufs and structs.
@@ -94,7 +94,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [SteamKit2](https://github.com/SteamRE/SteamKit) ⭐ 3,158 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - .NET library designed to interoperate with Valve's Steam network.
+* [SteamKit2](https://github.com/SteamRE/SteamKit) ⭐ 3,159 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - .NET library designed to interoperate with Valve's Steam network.
 * [SteamBot](https://github.com/Jessecar96/SteamBot) ⚠️ Archived - Automated bot software for interacting with steam trade.
 * [SteamAuth](https://github.com/geel9/SteamAuth) ⭐ 318 | 🐛 25 | 🌐 C# | 📅 2026-04-25 - A C# library that provides vital Steam Mobile Authenticator functionality.
 * [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) ⭐ 49 | 🐛 4 | 🌐 C# | 📅 2017-08-19 - SteamBot fork which focuses on trade offers.
@@ -140,7 +140,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Misc
 
 * [vdf](https://github.com/ValvePython/vdf) ⭐ 213 | 🐛 24 | 🌐 Python | 📅 2024-06-30 - Python module for working with Valve's KeyValue format.
-* [vpk](https://github.com/ValvePython/vpk) ⭐ 189 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
+* [vpk](https://github.com/ValvePython/vpk) ⭐ 188 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
 
 ### C++
 
@@ -170,14 +170,14 @@ The purpose of this document is to provide a quick overview over existing packag
 * [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 * [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
 * [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
-* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 639 | 🐛 2 | 🌐 HTML | 📅 2022-03-26
+* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 640 | 🐛 2 | 🌐 HTML | 📅 2022-03-26
 * [Steam as OpenID Provider](http://steamcommunity.com/dev)
 * [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 * [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
 
 ### Tutorials
 
-* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 712 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
+* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 711 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
 * [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2020-08-08
 * [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 * [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
@@ -191,8 +191,8 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Standalone Tools
 
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,810 | 🐛 318 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
-* [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,158 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - Intercept Steam client's network messages.
-* [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,158 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - Inspect messages dumped by NetHook2.
+* [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,159 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - Intercept Steam client's network messages.
+* [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,159 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
 * [protonenv](https://github.com/rizkiarm/protonenv) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2021-05-07 - Simple Proton version and prefix management.
 * [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
