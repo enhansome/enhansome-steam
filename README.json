@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:41:15Z",
+            "last_commit": "2026-08-15T18:38:04Z",
             "owner": "ArtyProf",
             "repo": "steamworks-ffi-node",
             "stars": 74
@@ -114,7 +114,7 @@
             "last_commit": "2026-03-01T09:55:23Z",
             "owner": "xDimGG",
             "repo": "node-steamapi",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2022-06-08T17:30:59Z",
             "owner": "Arcana",
             "repo": "node-dota2",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2024-10-20T21:53:42Z",
             "owner": "Jessecar96",
             "repo": "SteamDesktopAuthenticator",
-            "stars": 3810
+            "stars": 3811
           }
         },
         {
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:01:04.190Z",
+    "last_updated": "2026-08-16T13:02:35.333Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
     "enhanced_repository": "enhansome/enhansome-steam",

@@ -39,13 +39,13 @@ The purpose of this document is to provide a quick overview over existing packag
 * [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,112 | 🐛 62 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
 * [steam](https://github.com/seishun/node-steam) ⚠️ Archived - Interface directly with Steam servers from Node.js.
 * [vapor](https://github.com/scholtzm/vapor) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-11 - Lightweight Steam client framework.
-* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 74 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-15 - A Node.js wrapper for Steamworks SDK.
+* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 74 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-15 - A Node.js wrapper for Steamworks SDK.
 * [steam-client](https://github.com/DoctorMcKay/node-steam-client) ⚠️ Archived - API-compatible fork of node-steam's SteamClient.
 * [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) ⚠️ Archived - Simple base class for a Steam bot.
 
 #### WebAPI
 
-* [steamapi](https://github.com/lloti/node-steamapi) ⭐ 197 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-01 - A nice Steam API wrapper.
+* [steamapi](https://github.com/lloti/node-steamapi) ⭐ 198 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-01 - A nice Steam API wrapper.
 * [steam-webapi](https://github.com/DoctorMcKay/node-steam-webapi) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-18 - Complete WebAPI wrapper with support for extra HTTP headers sent by Steam.
 
 #### Trading
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,023 | 🐛 21 | 🌐 Rust | 📅 2026-07-29 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,024 | 🐛 21 | 🌐 Rust | 📅 2026-07-29 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -190,7 +190,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,810 | 🐛 318 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,811 | 🐛 318 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,159 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,159 | 🐛 37 | 🌐 C# | 📅 2026-08-01 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
