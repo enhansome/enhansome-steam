@@ -63,10 +63,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:38:04Z",
+            "last_commit": "2026-08-17T00:34:14Z",
             "owner": "ArtyProf",
             "repo": "steamworks-ffi-node",
-            "stars": 74
+            "stars": 76
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-03-12T07:57:51Z",
             "owner": "DoctorMcKay",
             "repo": "node-tf2",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-01T15:14:35Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 3159
+            "stars": 3160
           }
         },
         {
@@ -986,7 +986,7 @@
             "last_commit": "2026-07-13T14:50:00Z",
             "owner": "Longi94",
             "repo": "JavaSteam",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2024-10-20T21:53:42Z",
             "owner": "Jessecar96",
             "repo": "SteamDesktopAuthenticator",
-            "stars": 3811
+            "stars": 3810
           }
         },
         {
@@ -1073,7 +1073,7 @@
             "last_commit": "2026-08-01T15:14:35Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 3159
+            "stars": 3160
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-01T15:14:35Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 3159
+            "stars": 3160
           }
         },
         {
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:02:35.333Z",
+    "last_updated": "2026-08-17T13:08:36.338Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
     "enhanced_repository": "enhansome/enhansome-steam",
