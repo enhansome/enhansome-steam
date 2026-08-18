@@ -24,7 +24,7 @@
             "last_commit": "2025-12-04T11:57:18Z",
             "owner": "DoctorMcKay",
             "repo": "node-steam-user",
-            "stars": 1112
+            "stars": 1113
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2023-09-27T00:59:51Z",
             "owner": "joshuaferrara",
             "repo": "node-csgo",
-            "stars": 465
+            "stars": 464
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-10-20T14:47:07Z",
             "owner": "DoctorMcKay",
             "repo": "node-steamid",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-01T15:14:35Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 3160
+            "stars": 3162
           }
         },
         {
@@ -1073,7 +1073,7 @@
             "last_commit": "2026-08-01T15:14:35Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 3160
+            "stars": 3162
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-01T15:14:35Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 3160
+            "stars": 3162
           }
         },
         {
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:08:36.338Z",
+    "last_updated": "2026-08-18T13:10:41.445Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
     "enhanced_repository": "enhansome/enhansome-steam",
