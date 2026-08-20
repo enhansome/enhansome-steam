@@ -19,7 +19,7 @@
                     "last_commit": "2025-12-04T11:57:18Z",
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1113
+                    "stars": 1114
                   }
                 },
                 {
@@ -600,7 +600,7 @@
                     "last_commit": "2026-08-01T15:14:35Z",
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3163
+                    "stars": 3164
                   }
                 },
                 {
@@ -920,7 +920,7 @@
                     "last_commit": "2020-12-19T13:20:40Z",
                     "owner": "smiley",
                     "repo": "steamapi",
-                    "stars": 461
+                    "stars": 460
                   }
                 },
                 {
@@ -932,7 +932,7 @@
                     "archived": false,
                     "id": 461351628,
                     "language": "Python",
-                    "last_commit": "2026-08-19T11:43:03Z",
+                    "last_commit": "2026-08-19T14:19:42Z",
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
                     "stars": 106
@@ -1161,7 +1161,7 @@
                 "last_commit": "2026-08-01T15:14:35Z",
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3163
+                "stars": 3164
               }
             },
             {
@@ -1176,7 +1176,7 @@
                 "last_commit": "2026-08-01T15:14:35Z",
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3163
+                "stars": 3164
               }
             },
             {
@@ -1219,7 +1219,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:11:37.748Z",
+    "last_updated": "2026-08-20T13:13:24.381Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_id": 59688958,
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
