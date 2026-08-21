@@ -19,7 +19,7 @@
                     "last_commit": "2025-12-04T11:57:18Z",
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1114
+                    "stars": 1116
                   }
                 },
                 {
@@ -302,7 +302,7 @@
                     "last_commit": "2026-07-13T16:52:05Z",
                     "owner": "DoctorMcKay",
                     "repo": "node-steamcommunity",
-                    "stars": 577
+                    "stars": 578
                   }
                 },
                 {
@@ -1039,7 +1039,7 @@
                     "last_commit": "2023-09-20T20:33:49Z",
                     "owner": "ValvePython",
                     "repo": "vpk",
-                    "stars": 188
+                    "stars": 187
                   }
                 }
               ],
@@ -1219,7 +1219,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:13:24.381Z",
+    "last_updated": "2026-08-21T13:13:11.755Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_id": 59688958,
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",

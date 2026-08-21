@@ -36,7 +36,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,114 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
+* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,116 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
 * [steam](https://github.com/seishun/node-steam) ⚠️ Archived - Interface directly with Steam servers from Node.js.
 * [vapor](https://github.com/scholtzm/vapor) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-11 - Lightweight Steam client framework.
 * [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 76 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js wrapper for Steamworks SDK.
@@ -65,7 +65,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Community & Store Automation
 
-* [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 577 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - Interact with steamcommunity.com. Also allows to confirm trade offers.
+* [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - Interact with steamcommunity.com. Also allows to confirm trade offers.
 * [steamstore](https://github.com/DoctorMcKay/node-steamstore) ⭐ 69 | 🐛 4 | 🌐 JavaScript | 📅 2024-09-03 - Interact with store.steampowered.com.
 * [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) ⚠️ Archived - Retrieve SteamCommunity cookies if you are running Steam network client.
 * [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) ⚠️ Archived - Automatically registers and retrieves Steam API key.
@@ -140,11 +140,11 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Misc
 
 * [vdf](https://github.com/ValvePython/vdf) ⭐ 213 | 🐛 24 | 🌐 Python | 📅 2024-06-30 - Python module for working with Valve's KeyValue format.
-* [vpk](https://github.com/ValvePython/vpk) ⭐ 188 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
+* [vpk](https://github.com/ValvePython/vpk) ⭐ 187 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
 
 ### C++
 
-* [SteamPP](https://github.com/seishun/SteamPP) ⭐ 117 | 🐛 10 | 🌐 C++ | 📅 2017-03-07 - C++ library to interoperate with Steam servers.
+* [SteamPP](https://github.com/seishun/SteamPP) ⭐ 118 | 🐛 10 | 🌐 C++ | 📅 2017-03-07 - C++ library to interoperate with Steam servers.
 
 ### Java
 
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
