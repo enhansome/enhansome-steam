@@ -235,7 +235,7 @@
                     "last_commit": "2022-06-08T17:30:59Z",
                     "owner": "Arcana",
                     "repo": "node-dota2",
-                    "stars": 555
+                    "stars": 556
                   }
                 },
                 {
@@ -1146,7 +1146,7 @@
                 "last_commit": "2024-10-20T21:53:42Z",
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3811
+                "stars": 3812
               }
             },
             {
@@ -1219,7 +1219,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:13:11.755Z",
+    "last_updated": "2026-08-22T13:02:33.504Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_id": 59688958,
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
