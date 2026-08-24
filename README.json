@@ -1056,6 +1056,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SteamPP",
+              "description": "C++ library to interoperate with Steam servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10736580,
+                "language": "C++",
+                "last_commit": "2017-03-07T03:02:09Z",
+                "owner": "seishun",
+                "repo": "SteamPP",
+                "stars": 118
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JavaSteam",
               "description": "Java library that provides an interface to directly interact with Valve's Steam servers.",
               "children": [],
@@ -1088,6 +1110,72 @@
           "description": null,
           "node_type": "group",
           "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SteamAuth",
+              "description": "An iOS wrapper around Steam's OpenID login.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28734500,
+                "language": "Objective-C",
+                "last_commit": "2015-01-05T04:23:45Z",
+                "owner": "michaelchum",
+                "repo": "SteamAuth",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Objective-C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "steam-trade",
+              "description": "Ruby gem for sending trade offers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130513405,
+                "language": "Ruby",
+                "last_commit": "2023-06-23T18:07:57Z",
+                "owner": "OmG3r",
+                "repo": "steam-trade",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "steamguard-cli",
+              "description": "Command-line utility for generating Steam 2FA codes and managing Steam confirmations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66282276,
+                "language": "Rust",
+                "last_commit": "2026-07-29T21:11:54Z",
+                "owner": "dyc3",
+                "repo": "steamguard-cli",
+                "stars": 1033
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
       "title": "Packages"
@@ -1095,6 +1183,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Steam Internal WebAPI Documentation by Revadike",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365224400,
+                "language": "HTML",
+                "last_commit": "2022-03-26T00:37:07Z",
+                "owner": "Revadike",
+                "repo": "InternalSteamWebAPI",
+                "stars": 641
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
         {
           "children": [
             {
@@ -1213,13 +1323,35 @@
           "description": null,
           "node_type": "group",
           "title": "Standalone Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "node-steam-forum",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36949030,
+                "language": null,
+                "last_commit": "2017-11-06T09:09:05Z",
+                "owner": "steam-forward",
+                "repo": "node-steam-forum",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Discussion Boards"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:15:48.310Z",
+    "last_updated": "2026-08-24T14:20:52.207Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_id": 59688958,
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",

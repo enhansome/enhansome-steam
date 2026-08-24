@@ -128,7 +128,7 @@ The purpose of this document is to provide a quick overview over existing packag
 * [steam](https://github.com/ValvePython/steam) ⭐ 1,279 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
 * [steampy](https://github.com/bukson/steampy) ⭐ 667 | 🐛 91 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
-* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2026-08-19 - Trade and interact with Steam market, WebAPI, SteamGuard.
+* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 106 | 🐛 7 | 🌐 Python | 📅 2026-08-19 - Trade and interact with Steam market, WebAPI, SteamGuard.
 * [steamodd](https://github.com/Lagg/steamodd) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Steam tools library.
 * [Steam-Trade](https://github.com/Zwork101/steam-trade) ⚠️ Archived - An asynchronous, event-based trade library.
 
@@ -167,10 +167,10 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### General
 
+* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 641 | 🐛 2 | 🌐 HTML | 📅 2022-03-26
 * [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 * [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
 * [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
-* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 641 | 🐛 2 | 🌐 HTML | 📅 2022-03-26
 * [Steam as OpenID Provider](http://steamcommunity.com/dev)
 * [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 * [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
@@ -199,11 +199,11 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Discussion Boards
 
+* [node-steam-forum](https://github.com/steam-forward/node-steam-forum) ⭐ 43 | 🐛 4 | 📅 2017-11-06
 * [/r/SteamBot](https://www.reddit.com/r/SteamBot)
 * [/r/SteamBot Discord](https://discord.gg/0i5X3oDHJbDUsiGC)
 * [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 * [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
-* [node-steam-forum](https://github.com/steam-forward/node-steam-forum) ⭐ 43 | 🐛 4 | 📅 2017-11-06
 
 ### Third-Party Services
 
