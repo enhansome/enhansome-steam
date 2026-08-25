@@ -140,7 +140,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Misc
 
 * [vdf](https://github.com/ValvePython/vdf) ⭐ 213 | 🐛 24 | 🌐 Python | 📅 2024-06-30 - Python module for working with Valve's KeyValue format.
-* [vpk](https://github.com/ValvePython/vpk) ⭐ 187 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
+* [vpk](https://github.com/ValvePython/vpk) ⭐ 188 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
 
 ### C++
 
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,034 | 🐛 21 | 🌐 Rust | 📅 2026-07-29 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,035 | 🐛 21 | 🌐 Rust | 📅 2026-07-29 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
