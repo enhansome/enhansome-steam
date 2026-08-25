@@ -34,7 +34,7 @@
                     "last_commit": "2020-06-05T15:24:30Z",
                     "owner": "seishun",
                     "repo": "node-steam",
-                    "stars": 1001
+                    "stars": 1000
                   }
                 },
                 {
@@ -600,7 +600,7 @@
                     "last_commit": "2026-08-01T15:14:35Z",
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3165
+                    "stars": 3166
                   }
                 },
                 {
@@ -729,21 +729,6 @@
             },
             {
               "node_type": "item",
-              "title": "SteamCommunity",
-              "description": "A PHP library for interacting with the Steam Community website.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 48552702,
-                "language": "PHP",
-                "last_commit": "2017-10-25T08:53:47Z",
-                "owner": "waylaidwanderer",
-                "repo": "PHP-SteamCommunity",
-                "stars": 80
-              }
-            },
-            {
-              "node_type": "item",
               "title": "steam-api",
               "description": "A PHP wrapper for the Steam API.",
               "children": [],
@@ -755,6 +740,21 @@
                 "owner": "DaMitchell",
                 "repo": "steam-api-php",
                 "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SteamCommunity",
+              "description": "A PHP library for interacting with the Steam Community website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48552702,
+                "language": "PHP",
+                "last_commit": "2017-10-25T08:53:47Z",
+                "owner": "waylaidwanderer",
+                "repo": "PHP-SteamCommunity",
+                "stars": 79
               }
             },
             {
@@ -932,7 +932,7 @@
                     "archived": false,
                     "id": 461351628,
                     "language": "Python",
-                    "last_commit": "2026-08-19T14:19:42Z",
+                    "last_commit": "2026-08-24T20:27:15Z",
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
                     "stars": 106
@@ -1169,7 +1169,7 @@
                 "last_commit": "2026-07-29T21:11:54Z",
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1033
+                "stars": 1034
               }
             }
           ],
@@ -1271,7 +1271,7 @@
                 "last_commit": "2026-08-01T15:14:35Z",
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3165
+                "stars": 3166
               }
             },
             {
@@ -1286,7 +1286,7 @@
                 "last_commit": "2026-08-01T15:14:35Z",
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3165
+                "stars": 3166
               }
             },
             {
@@ -1351,7 +1351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:52.207Z",
+    "last_updated": "2026-08-25T06:15:08.213Z",
     "original_repository": "scholtzm/awesome-steam",
     "original_repository_id": 59688958,
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
