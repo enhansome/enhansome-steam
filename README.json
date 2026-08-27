@@ -19,7 +19,7 @@
                     "last_commit": "2025-12-04T11:57:18Z",
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1117
+                    "stars": 1118
                   }
                 },
                 {
@@ -600,7 +600,7 @@
                     "last_commit": "2026-08-01T15:14:35Z",
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3169
+                    "stars": 3170
                   }
                 },
                 {
@@ -1197,7 +1197,7 @@
                 "last_commit": "2022-03-26T00:37:07Z",
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 641
+                "stars": 642
               }
             }
           ],
@@ -1271,7 +1271,7 @@
                 "last_commit": "2026-08-01T15:14:35Z",
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3169
+                "stars": 3170
               }
             },
             {
@@ -1286,7 +1286,7 @@
                 "last_commit": "2026-08-01T15:14:35Z",
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3169
+                "stars": 3170
               }
             },
             {
@@ -1351,9 +1351,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:18:29.941Z",
-    "original_repository": "scholtzm/awesome-steam",
-    "original_repository_id": 59688958,
+    "last_updated": "2026-08-27T12:06:34.007Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 59688958,
+      "language": null,
+      "last_commit": "2026-04-02T20:46:48Z",
+      "owner": "scholtzm",
+      "repo": "awesome-steam",
+      "stars": 572
+    },
     "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
     "enhanced_repository": "enhansome/enhansome-steam",
     "enhanced_repository_description": null,
