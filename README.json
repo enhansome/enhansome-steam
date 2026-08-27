@@ -19,7 +19,7 @@
                     "last_commit": "2025-12-04T11:57:18Z",
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1118
+                    "stars": 1117
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-24T00:35:07Z",
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 76
+                    "stars": 75
                   }
                 },
                 {
@@ -1351,7 +1351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:34.007Z",
+    "last_updated": "2026-08-27T22:17:53.508Z",
     "original_repository_info": {
       "archived": false,
       "id": 59688958,
