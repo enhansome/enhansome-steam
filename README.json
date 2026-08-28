@@ -20,7 +20,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
                     "stars": 1117
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "seishun",
                     "repo": "node-steam",
                     "stars": 1000
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "scholtzm",
                     "repo": "vapor",
                     "stars": 111
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -64,8 +67,9 @@
                     "last_commit": "2026-08-24T00:35:07Z",
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 75
-                  }
+                    "stars": 77
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-client",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "kjsmita6",
                     "repo": "node-steam-parentbot",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -117,7 +123,8 @@
                     "owner": "xDimGG",
                     "repo": "node-steamapi",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-webapi",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -153,8 +161,9 @@
                     "last_commit": "2026-03-27T08:38:14Z",
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-tradeoffer-manager",
-                    "stars": 606
-                  }
+                    "stars": 605
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "alex7kom",
                     "repo": "node-steam-tradeoffers",
                     "stars": 288
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "seishun",
                     "repo": "node-steam-trade",
                     "stars": 161
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "timvandam",
                     "repo": "steam-inventory-stream",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "itsjfx",
                     "repo": "node-steam-inventory-api-ng",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -236,7 +249,8 @@
                     "owner": "Arcana",
                     "repo": "node-dota2",
                     "stars": 556
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -250,8 +264,9 @@
                     "last_commit": "2023-09-27T00:59:51Z",
                     "owner": "joshuaferrara",
                     "repo": "node-csgo",
-                    "stars": 464
-                  }
+                    "stars": 463
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -266,7 +281,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-tf2",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -281,7 +297,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-gameserver",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -303,7 +320,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steamcommunity",
                     "stars": 579
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -318,7 +336,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steamstore",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -333,7 +352,8 @@
                     "owner": "alex7kom",
                     "repo": "node-steam-weblogon",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +368,8 @@
                     "owner": "alex7kom",
                     "repo": "node-steam-web-api-key",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -363,7 +384,8 @@
                     "owner": "alex7kom",
                     "repo": "node-steam-parental",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -385,7 +407,8 @@
                     "owner": "liamcurry",
                     "repo": "passport-steam",
                     "stars": 358
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +423,8 @@
                     "owner": "dialupnoises",
                     "repo": "steam-login",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +439,8 @@
                     "owner": "scholtzm",
                     "repo": "meteor-accounts-steam",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -437,7 +462,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-totp",
                     "stars": 257
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +478,8 @@
                     "owner": "Steam-Chat-Bot",
                     "repo": "node-steam-chat-bot",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -467,7 +494,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steamid",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -482,7 +510,8 @@
                     "owner": "seishun",
                     "repo": "node-steam-resources",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -497,7 +526,8 @@
                     "owner": "rjackson",
                     "repo": "node-vdf",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -512,7 +542,8 @@
                     "owner": "seishun",
                     "repo": "node-steam-crypto",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -527,7 +558,8 @@
                     "owner": "scholtzm",
                     "repo": "node-steam-groups",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -542,7 +574,8 @@
                     "owner": "itsjfx",
                     "repo": "node-steamapis",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -557,7 +590,8 @@
                     "owner": "scholtzm",
                     "repo": "node-steamrep",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -572,7 +606,8 @@
                     "owner": "scholtzm",
                     "repo": "node-reptf",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -601,7 +636,8 @@
                     "owner": "SteamRE",
                     "repo": "SteamKit",
                     "stars": 3170
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -616,7 +652,8 @@
                     "owner": "Jessecar96",
                     "repo": "SteamBot",
                     "stars": 1372
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -631,7 +668,8 @@
                     "owner": "geel9",
                     "repo": "SteamAuth",
                     "stars": 318
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -646,7 +684,8 @@
                     "owner": "waylaidwanderer",
                     "repo": "SteamTradeOffersBot",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -661,7 +700,8 @@
                     "owner": "ObsidianMinor",
                     "repo": "SteamStandardProject",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -683,7 +723,8 @@
                     "owner": "igeligel",
                     "repo": "BackpackLogin",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -698,7 +739,8 @@
                     "owner": "igeligel",
                     "repo": "TeamFortressOutpostApi",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -725,7 +767,8 @@
                 "owner": "SmItH197",
                 "repo": "SteamAuthentication",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -740,7 +783,8 @@
                 "owner": "DaMitchell",
                 "repo": "steam-api-php",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -755,7 +799,8 @@
                 "owner": "waylaidwanderer",
                 "repo": "PHP-SteamCommunity",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -770,7 +815,8 @@
                 "owner": "BlackCetha",
                 "repo": "SteamAuthOOP",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -785,7 +831,8 @@
                 "owner": "DoctorMcKay",
                 "repo": "php-steam-totp",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -800,7 +847,8 @@
                 "owner": "vikas5914",
                 "repo": "steam-auth",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -815,7 +863,8 @@
                 "owner": "DoctorMcKay",
                 "repo": "php-steamid",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -837,7 +886,8 @@
                 "owner": "Philipp15b",
                 "repo": "go-steam",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -852,7 +902,8 @@
                 "owner": "0xAozora",
                 "repo": "steam",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -867,7 +918,8 @@
                 "owner": "YellowOrWhite",
                 "repo": "go-steam-mobileauth",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -891,7 +943,8 @@
                     "owner": "ValvePython",
                     "repo": "steam",
                     "stars": 1279
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -906,7 +959,8 @@
                     "owner": "bukson",
                     "repo": "steampy",
                     "stars": 667
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -921,7 +975,8 @@
                     "owner": "smiley",
                     "repo": "steamapi",
                     "stars": 460
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -936,7 +991,8 @@
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -951,7 +1007,8 @@
                     "owner": "Lagg",
                     "repo": "steamodd",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -966,7 +1023,8 @@
                     "owner": "Zwork101",
                     "repo": "steam-trade",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -988,7 +1046,8 @@
                     "owner": "ValvePython",
                     "repo": "dota2",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -1003,7 +1062,8 @@
                     "owner": "ValvePython",
                     "repo": "csgo",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -1025,7 +1085,8 @@
                     "owner": "ValvePython",
                     "repo": "vdf",
                     "stars": 213
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 },
                 {
                   "node_type": "item",
@@ -1040,7 +1101,8 @@
                     "owner": "ValvePython",
                     "repo": "vpk",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:24:06.386Z"
                 }
               ],
               "description": null,
@@ -1067,7 +1129,8 @@
                 "owner": "seishun",
                 "repo": "SteamPP",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1089,7 +1152,8 @@
                 "owner": "Longi94",
                 "repo": "JavaSteam",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -1104,7 +1168,8 @@
                 "owner": "Top-Cat",
                 "repo": "SteamKit-Java",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1126,7 +1191,8 @@
                 "owner": "michaelchum",
                 "repo": "SteamAuth",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1148,7 +1214,8 @@
                 "owner": "OmG3r",
                 "repo": "steam-trade",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1169,8 +1236,9 @@
                 "last_commit": "2026-07-29T21:11:54Z",
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1035
-              }
+                "stars": 1034
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1198,7 +1266,8 @@
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
                 "stars": 642
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1220,7 +1289,8 @@
                 "owner": "andrewda",
                 "repo": "node-steam-guide",
                 "stars": 711
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -1235,7 +1305,8 @@
                 "owner": "charredvenge",
                 "repo": "nodejs-bot-guide",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1257,7 +1328,8 @@
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
                 "stars": 3811
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1344,8 @@
                 "owner": "SteamRE",
                 "repo": "SteamKit",
                 "stars": 3170
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1360,8 @@
                 "owner": "SteamRE",
                 "repo": "SteamKit",
                 "stars": 3170
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1376,8 @@
                 "owner": "tre3p",
                 "repo": "steam-desktop-authenticator-multiplatform",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1392,8 @@
                 "owner": "rizkiarm",
                 "repo": "protonenv",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1339,7 +1415,8 @@
                 "owner": "steam-forward",
                 "repo": "node-steam-forum",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T22:24:06.386Z"
             }
           ],
           "description": null,
@@ -1351,7 +1428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:17:53.508Z",
+    "last_updated": "2026-08-28T22:24:06.386Z",
     "original_repository_info": {
       "archived": false,
       "id": 59688958,

@@ -36,10 +36,10 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,117 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
+* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,117 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
 * [steam](https://github.com/seishun/node-steam) ⚠️ Archived - Interface directly with Steam servers from Node.js.
 * [vapor](https://github.com/scholtzm/vapor) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-11 - Lightweight Steam client framework.
-* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 75 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 - A Node.js wrapper for Steamworks SDK.
+* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 77 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 - A Node.js wrapper for Steamworks SDK.
 * [steam-client](https://github.com/DoctorMcKay/node-steam-client) ⚠️ Archived - API-compatible fork of node-steam's SteamClient.
 * [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) ⚠️ Archived - Simple base class for a Steam bot.
 
@@ -50,7 +50,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Trading
 
-* [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) ⭐ 606 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-27 - Simple and sane Steam trade offer management.
+* [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) ⭐ 605 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-27 - Simple and sane Steam trade offer management.
 * [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) ⚠️ Archived - Steam Trade Offers for Node.js.
 * [steam-trade](https://github.com/seishun/node-steam-trade) ⚠️ Archived - Node.js wrapper around Steam live trading.
 * [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-15 - Fetch inventories as readable streams.
@@ -59,7 +59,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Game Interaction
 
 * [dota2](https://github.com/RJacksonm1/node-dota2) ⚠️ Archived - Interact directly with Dota 2 game coordinator.
-* [csgo](https://github.com/joshuaferrara/node-csgo) ⭐ 464 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-27 - Interact directly with CS:GO game coordinator.
+* [csgo](https://github.com/joshuaferrara/node-csgo) ⭐ 463 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-27 - Interact directly with CS:GO game coordinator.
 * [tf2](https://github.com/DoctorMcKay/node-tf2) ⭐ 63 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-12 - Interact directly with TF2 game coordinator.
 * [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-17 - Steam client handler for Gameserver and AnonGameserver account types.
 
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,035 | 🐛 21 | 🌐 Rust | 📅 2026-07-29 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,034 | 🐛 21 | 🌐 Rust | 📅 2026-07-29 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
