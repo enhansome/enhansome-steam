@@ -1963,7 +1963,7 @@
                 "open_issues": 317,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3811,
+                "stars": 3812,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:27.689Z",
+    "last_updated": "2026-08-29T16:45:13.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
