@@ -99,8 +99,8 @@
                     "id": 1073682146,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-24T00:35:07Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-08-30T14:57:19Z",
+                    "open_issues": 8,
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
                     "stars": 77,
@@ -918,7 +918,7 @@
                     "open_issues": 37,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3171,
+                    "stars": 3173,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1293,7 +1293,7 @@
                 "open_issues": 38,
                 "owner": "Philipp15b",
                 "repo": "go-steam",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "steam",
                   "steamkit"
@@ -1402,7 +1402,7 @@
                     "open_issues": 91,
                     "owner": "bukson",
                     "repo": "steampy",
-                    "stars": 666,
+                    "stars": 667,
                     "topics": [
                       "linux",
                       "macos",
@@ -1963,7 +1963,7 @@
                 "open_issues": 317,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3812,
+                "stars": 3813,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 37,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3171,
+                "stars": 3173,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 37,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3171,
+                "stars": 3173,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:45:13.479Z",
+    "last_updated": "2026-08-30T16:43:39.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
