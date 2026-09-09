@@ -23,7 +23,7 @@
                     "open_issues": 65,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1118,
+                    "stars": 1120,
                     "topics": [
                       "javascript",
                       "node",
@@ -245,7 +245,7 @@
                     "open_issues": 12,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-tradeoffer-manager",
-                    "stars": 606,
+                    "stars": 607,
                     "topics": [
                       "javascript",
                       "node",
@@ -475,7 +475,7 @@
                     "open_issues": 49,
                     "owner": "DoctorMcKay",
                     "repo": "node-steamcommunity",
-                    "stars": 580,
+                    "stars": 581,
                     "topics": [
                       "javascript",
                       "node",
@@ -681,7 +681,7 @@
                     "open_issues": 0,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-totp",
-                    "stars": 257,
+                    "stars": 258,
                     "topics": [
                       "javascript",
                       "node",
@@ -1368,7 +1368,7 @@
                     "open_issues": 63,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1280,
+                    "stars": 1281,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1866,7 +1866,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 646,
+                "stars": 647,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1963,7 +1963,7 @@
                 "open_issues": 317,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3816,
+                "stars": 3817,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:41:02.335Z",
+    "last_updated": "2026-09-09T16:41:30.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
