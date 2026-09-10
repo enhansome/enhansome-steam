@@ -23,7 +23,7 @@
                     "open_issues": 65,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1120,
+                    "stars": 1121,
                     "topics": [
                       "javascript",
                       "node",
@@ -681,7 +681,7 @@
                     "open_issues": 0,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-totp",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": [
                       "javascript",
                       "node",
@@ -918,7 +918,7 @@
                     "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3187,
+                    "stars": 3190,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1368,7 +1368,7 @@
                     "open_issues": 63,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1281,
+                    "stars": 1282,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1824,7 +1824,7 @@
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1038,
+                "stars": 1039,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1984,7 +1984,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3187,
+                "stars": 3190,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3187,
+                "stars": 3190,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:41:30.664Z",
+    "last_updated": "2026-09-10T16:27:19.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
