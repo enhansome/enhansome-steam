@@ -100,10 +100,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-08-31T00:34:14Z",
-                    "open_issues": 15,
+                    "open_issues": 19,
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "electron",
                       "javascript",
@@ -1368,7 +1368,7 @@
                     "open_issues": 63,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1282,
+                    "stars": 1283,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1706,7 +1706,7 @@
                 "open_issues": 4,
                 "owner": "Longi94",
                 "repo": "JavaSteam",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "java",
                   "networking",
@@ -1824,7 +1824,7 @@
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1041,
+                "stars": 1042,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1866,7 +1866,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1963,7 +1963,7 @@
                 "open_issues": 317,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3818,
+                "stars": 3819,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:05:12.268Z",
+    "last_updated": "2026-09-15T17:03:06.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
