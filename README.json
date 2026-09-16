@@ -23,7 +23,7 @@
                     "open_issues": 65,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1120,
+                    "stars": 1119,
                     "topics": [
                       "javascript",
                       "node",
@@ -914,7 +914,7 @@
                     "id": 10376425,
                     "language": "C#",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-09-12T17:40:41Z",
+                    "last_commit": "2026-09-16T01:18:00Z",
                     "open_issues": 37,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
@@ -1545,7 +1545,7 @@
                     "open_issues": 33,
                     "owner": "ValvePython",
                     "repo": "dota2",
-                    "stars": 223,
+                    "stars": 224,
                     "topics": [
                       "dota2",
                       "game-coordinator",
@@ -1980,7 +1980,7 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-12T17:40:41Z",
+                "last_commit": "2026-09-16T01:18:00Z",
                 "open_issues": 37,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
@@ -2011,7 +2011,7 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-12T17:40:41Z",
+                "last_commit": "2026-09-16T01:18:00Z",
                 "open_issues": 37,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:03:06.383Z",
+    "last_updated": "2026-09-16T17:02:23.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2126,7 +2126,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-02T20:46:48Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "scholtzm",
       "repo": "awesome-steam",
       "stars": 572,
