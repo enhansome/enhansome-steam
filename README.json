@@ -918,7 +918,7 @@
                     "open_issues": 36,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3194,
+                    "stars": 3195,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1434,7 +1434,7 @@
                     "open_issues": 9,
                     "owner": "smiley",
                     "repo": "steamapi",
-                    "stars": 460,
+                    "stars": 461,
                     "topics": [
                       "python",
                       "rest",
@@ -1824,7 +1824,7 @@
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1042,
+                "stars": 1041,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1963,7 +1963,7 @@
                 "open_issues": 318,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3819,
+                "stars": 3820,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 36,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3194,
+                "stars": 3195,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 36,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3194,
+                "stars": 3195,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:02:59.919Z",
+    "last_updated": "2026-09-18T16:27:43.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
