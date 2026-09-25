@@ -1638,7 +1638,7 @@
                     "open_issues": 9,
                     "owner": "ValvePython",
                     "repo": "vpk",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": [
                       "gcf",
                       "hacktoberfest",
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1047,
+                "stars": 1053,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1910,7 +1910,7 @@
                 "open_issues": 29,
                 "owner": "andrewda",
                 "repo": "node-steam-guide",
-                "stars": 710,
+                "stars": 709,
                 "topics": [
                   "bot",
                   "steam",
@@ -1963,7 +1963,7 @@
                 "open_issues": 318,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3823,
+                "stars": 3826,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:14:57.382Z",
+    "last_updated": "2026-09-25T17:15:34.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",

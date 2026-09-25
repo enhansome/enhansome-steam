@@ -140,7 +140,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Misc
 
 * [vdf](https://github.com/ValvePython/vdf) ⭐ 214 | 🐛 24 | 🌐 Python | 📅 2024-06-30 - Python module for working with Valve's KeyValue format.
-* [vpk](https://github.com/ValvePython/vpk) ⭐ 189 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
+* [vpk](https://github.com/ValvePython/vpk) ⭐ 190 | 🐛 9 | 🌐 Python | 📅 2023-09-20 - Python module for working with Valve's Pack format.
 
 ### C++
 
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,047 | 🐛 23 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,053 | 🐛 23 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -177,7 +177,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Tutorials
 
-* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 710 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
+* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 709 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
 * [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2020-08-08
 * [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 * [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
@@ -190,7 +190,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,823 | 🐛 318 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,826 | 🐛 318 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,201 | 🐛 38 | 🌐 C# | 📅 2026-09-16 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,201 | 🐛 38 | 🌐 C# | 📅 2026-09-16 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
