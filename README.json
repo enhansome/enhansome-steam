@@ -103,7 +103,7 @@
                     "open_issues": 17,
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "electron",
                       "javascript",
@@ -918,7 +918,7 @@
                     "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3201,
+                    "stars": 3202,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1293,7 +1293,7 @@
                 "open_issues": 38,
                 "owner": "Philipp15b",
                 "repo": "go-steam",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "steam",
                   "steamkit"
@@ -1368,7 +1368,7 @@
                     "open_issues": 63,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1285,
+                    "stars": 1286,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1866,7 +1866,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 649,
+                "stars": 648,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1960,10 +1960,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2024-10-20T21:53:42Z",
-                "open_issues": 318,
+                "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3826,
+                "stars": 3827,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3201,
+                "stars": 3202,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3201,
+                "stars": 3202,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:15:34.190Z",
+    "last_updated": "2026-09-26T16:26:59.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2129,7 +2129,7 @@
       "open_issues": 8,
       "owner": "scholtzm",
       "repo": "awesome-steam",
-      "stars": 572,
+      "stars": 571,
       "topics": [
         "awesome",
         "awesome-list",
