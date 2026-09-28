@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:00:34.621Z",
+    "last_updated": "2026-09-28T19:42:01.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",

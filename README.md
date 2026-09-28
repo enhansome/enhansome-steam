@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,053 | 🐛 23 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,054 | 🐛 23 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
