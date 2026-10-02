@@ -20,7 +20,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2025-12-04T11:57:18Z",
-                    "open_issues": 65,
+                    "open_issues": 66,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
                     "stars": 1121,
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3825,
+                "stars": 3826,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:26:34.357Z",
+    "last_updated": "2026-10-02T17:53:46.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
