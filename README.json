@@ -914,8 +914,8 @@
                     "id": 10376425,
                     "language": "C#",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-10-01T15:00:54Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-10-03T16:07:17Z",
+                    "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
                     "stars": 3204,
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3826,
+                "stars": 3827,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1980,8 +1980,8 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-01T15:00:54Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-03T16:07:17Z",
+                "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
                 "stars": 3204,
@@ -2011,8 +2011,8 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-01T15:00:54Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-03T16:07:17Z",
+                "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
                 "stars": 3204,
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:19.107Z",
+    "last_updated": "2026-10-03T16:25:46.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
