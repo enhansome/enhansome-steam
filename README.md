@@ -59,7 +59,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Game Interaction
 
 * [dota2](https://github.com/RJacksonm1/node-dota2) ⚠️ Archived - Interact directly with Dota 2 game coordinator.
-* [csgo](https://github.com/joshuaferrara/node-csgo) ⭐ 463 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-27 - Interact directly with CS:GO game coordinator.
+* [csgo](https://github.com/joshuaferrara/node-csgo) ⭐ 464 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-27 - Interact directly with CS:GO game coordinator.
 * [tf2](https://github.com/DoctorMcKay/node-tf2) ⭐ 63 | 🐛 12 | 🌐 JavaScript | 📅 2024-03-12 - Interact directly with TF2 game coordinator.
 * [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-17 - Steam client handler for Gameserver and AnonGameserver account types.
 
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

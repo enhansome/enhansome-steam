@@ -396,7 +396,7 @@
                     "open_issues": 9,
                     "owner": "joshuaferrara",
                     "repo": "node-csgo",
-                    "stars": 463,
+                    "stars": 464,
                     "topics": [
                       "counter-strike",
                       "csgo",
@@ -1853,7 +1853,7 @@
             {
               "node_type": "item",
               "title": "Steam Internal WebAPI Documentation by Revadike",
-              "description": null,
+              "description": "Revadike/InternalSteamWebAPI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1897,7 +1897,7 @@
             {
               "node_type": "item",
               "title": "In-depth Steam Bot Guide with Node.js",
-              "description": null,
+              "description": "andrewda/node-steam-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1922,7 +1922,7 @@
             {
               "node_type": "item",
               "title": "Charred's node.js Guide to Steam Bots",
-              "description": null,
+              "description": "charredvenge/nodejs-bot-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2089,7 +2089,7 @@
             {
               "node_type": "item",
               "title": "node-steam-forum",
-              "description": null,
+              "description": "steam-forward/node-steam-forum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:53:46.643Z",
+    "last_updated": "2026-10-03T05:08:19.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
