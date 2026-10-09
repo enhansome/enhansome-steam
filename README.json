@@ -51,7 +51,7 @@
                     "open_issues": 1,
                     "owner": "seishun",
                     "repo": "node-steam",
-                    "stars": 1000,
+                    "stars": 999,
                     "topics": [
                       "steam"
                     ]
@@ -245,7 +245,7 @@
                     "open_issues": 13,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-tradeoffer-manager",
-                    "stars": 606,
+                    "stars": 607,
                     "topics": [
                       "javascript",
                       "node",
@@ -375,7 +375,7 @@
                     "open_issues": 0,
                     "owner": "Arcana",
                     "repo": "node-dota2",
-                    "stars": 556,
+                    "stars": 555,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:24:06.386Z"
@@ -475,7 +475,7 @@
                     "open_issues": 49,
                     "owner": "DoctorMcKay",
                     "repo": "node-steamcommunity",
-                    "stars": 580,
+                    "stars": 578,
                     "topics": [
                       "javascript",
                       "node",
@@ -918,7 +918,7 @@
                     "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3206,
+                    "stars": 3208,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1368,7 +1368,7 @@
                     "open_issues": 63,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1286,
+                    "stars": 1287,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1402,7 +1402,7 @@
                     "open_issues": 90,
                     "owner": "bukson",
                     "repo": "steampy",
-                    "stars": 667,
+                    "stars": 666,
                     "topics": [
                       "linux",
                       "macos",
@@ -1458,7 +1458,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-10T19:01:42Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
                     "stars": 107,
@@ -1866,7 +1866,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 649,
+                "stars": 650,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3827,
+                "stars": 3826,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3206,
+                "stars": 3208,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3206,
+                "stars": 3208,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:52:48.816Z",
+    "last_updated": "2026-10-09T18:23:14.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
