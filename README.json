@@ -245,7 +245,7 @@
                     "open_issues": 13,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-tradeoffer-manager",
-                    "stars": 607,
+                    "stars": 606,
                     "topics": [
                       "javascript",
                       "node",
@@ -681,7 +681,7 @@
                     "open_issues": 0,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-totp",
-                    "stars": 258,
+                    "stars": 257,
                     "topics": [
                       "javascript",
                       "node",
@@ -918,7 +918,7 @@
                     "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3208,
+                    "stars": 3209,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1402,7 +1402,7 @@
                     "open_issues": 90,
                     "owner": "bukson",
                     "repo": "steampy",
-                    "stars": 666,
+                    "stars": 667,
                     "topics": [
                       "linux",
                       "macos",
@@ -1573,7 +1573,7 @@
                     "open_issues": 16,
                     "owner": "ValvePython",
                     "repo": "csgo",
-                    "stars": 132,
+                    "stars": 133,
                     "topics": [
                       "counter-strike",
                       "csgo",
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1866,7 +1866,7 @@
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
-                "stars": 650,
+                "stars": 652,
                 "topics": [
                   "api",
                   "api-docs",
@@ -1910,7 +1910,7 @@
                 "open_issues": 29,
                 "owner": "andrewda",
                 "repo": "node-steam-guide",
-                "stars": 710,
+                "stars": 709,
                 "topics": [
                   "bot",
                   "steam",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3826,
+                "stars": 3827,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3208,
+                "stars": 3209,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3208,
+                "stars": 3209,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:23:14.971Z",
+    "last_updated": "2026-10-10T17:21:51.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2126,7 +2126,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-02T20:46:48Z",
-      "open_issues": 9,
+      "open_issues": 11,
       "owner": "scholtzm",
       "repo": "awesome-steam",
       "stars": 572,
