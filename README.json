@@ -23,7 +23,7 @@
                     "open_issues": 66,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1122,
+                    "stars": 1123,
                     "topics": [
                       "javascript",
                       "node",
@@ -918,7 +918,7 @@
                     "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3209,
+                    "stars": 3208,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1365,7 +1365,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-06-23T17:58:40Z",
-                    "open_issues": 63,
+                    "open_issues": 64,
                     "owner": "ValvePython",
                     "repo": "steam",
                     "stars": 1287,
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1984,7 +1984,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3209,
+                "stars": 3208,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3209,
+                "stars": 3208,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:21:51.057Z",
+    "last_updated": "2026-10-11T17:42:02.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
