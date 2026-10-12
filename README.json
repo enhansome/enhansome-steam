@@ -23,7 +23,7 @@
                     "open_issues": 66,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1123,
+                    "stars": 1124,
                     "topics": [
                       "javascript",
                       "node",
@@ -103,7 +103,7 @@
                     "open_issues": 19,
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": [
                       "electron",
                       "javascript",
@@ -918,7 +918,7 @@
                     "open_issues": 38,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3208,
+                    "stars": 3207,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1457,8 +1457,8 @@
                     "id": 461351628,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T19:01:42Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-12T20:19:37Z",
+                    "open_issues": 7,
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
                     "stars": 107,
@@ -1734,7 +1734,7 @@
                 "open_issues": 4,
                 "owner": "Top-Cat",
                 "repo": "SteamKit-Java",
-                "stars": 51,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1984,7 +1984,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3208,
+                "stars": 3207,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 38,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3208,
+                "stars": 3207,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:42:02.765Z",
+    "last_updated": "2026-10-12T21:17:37.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
