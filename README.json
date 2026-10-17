@@ -918,7 +918,7 @@
                     "open_issues": 37,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3210,
+                    "stars": 3211,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1862,7 +1862,7 @@
                 "id": 365224400,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2022-03-26T00:37:07Z",
+                "last_commit": "2026-10-16T20:50:01Z",
                 "open_issues": 2,
                 "owner": "Revadike",
                 "repo": "InternalSteamWebAPI",
@@ -1984,7 +1984,7 @@
                 "open_issues": 37,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3210,
+                "stars": 3211,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2015,7 +2015,7 @@
                 "open_issues": 37,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3210,
+                "stars": 3211,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:42:47.328Z",
+    "last_updated": "2026-10-17T15:39:15.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
