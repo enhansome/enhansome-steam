@@ -273,7 +273,7 @@
                     "open_issues": 0,
                     "owner": "alex7kom",
                     "repo": "node-steam-tradeoffers",
-                    "stars": 288,
+                    "stars": 289,
                     "topics": [
                       "javascript",
                       "nodejs",
@@ -914,11 +914,11 @@
                     "id": 10376425,
                     "language": "C#",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-10-21T02:00:54Z",
-                    "open_issues": 35,
+                    "last_commit": "2026-10-23T13:29:29Z",
+                    "open_issues": 36,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3215,
+                    "stars": 3216,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1461,7 +1461,7 @@
                     "open_issues": 7,
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": [
                       "asyncio",
                       "python",
@@ -1706,7 +1706,7 @@
                 "open_issues": 4,
                 "owner": "Longi94",
                 "repo": "JavaSteam",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "java",
                   "networking",
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1070,
+                "stars": 1072,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1980,11 +1980,11 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-21T02:00:54Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-23T13:29:29Z",
+                "open_issues": 36,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3215,
+                "stars": 3216,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2011,11 +2011,11 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-21T02:00:54Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-23T13:29:29Z",
+                "open_issues": 36,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3215,
+                "stars": 3216,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:14:29.856Z",
+    "last_updated": "2026-10-23T17:12:27.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2126,7 +2126,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-02T20:46:48Z",
-      "open_issues": 12,
+      "open_issues": 14,
       "owner": "scholtzm",
       "repo": "awesome-steam",
       "stars": 574,
