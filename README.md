@@ -126,9 +126,9 @@ The purpose of this document is to provide a quick overview over existing packag
 #### General
 
 * [steam](https://github.com/ValvePython/steam) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
-* [steampy](https://github.com/bukson/steampy) ⭐ 666 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
+* [steampy](https://github.com/bukson/steampy) ⭐ 667 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
-* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 108 | 🐛 9 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
+* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 109 | 🐛 9 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
 * [steamodd](https://github.com/Lagg/steamodd) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Steam tools library.
 * [Steam-Trade](https://github.com/Zwork101/steam-trade) ⚠️ Archived - An asynchronous, event-based trade library.
 
@@ -190,7 +190,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,830 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,832 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,217 | 🐛 37 | 🌐 C# | 📅 2026-10-25 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,217 | 🐛 37 | 🌐 C# | 📅 2026-10-25 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

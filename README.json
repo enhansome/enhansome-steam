@@ -1402,7 +1402,7 @@
                     "open_issues": 90,
                     "owner": "bukson",
                     "repo": "steampy",
-                    "stars": 666,
+                    "stars": 667,
                     "topics": [
                       "linux",
                       "macos",
@@ -1461,7 +1461,7 @@
                     "open_issues": 9,
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": [
                       "asyncio",
                       "python",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3830,
+                "stars": 3832,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:42:23.545Z",
+    "last_updated": "2026-10-27T18:02:45.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
