@@ -125,7 +125,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam](https://github.com/ValvePython/steam) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
+* [steam](https://github.com/ValvePython/steam) ⭐ 1,291 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
 * [steampy](https://github.com/bukson/steampy) ⭐ 667 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 * [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 109 | 🐛 9 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
@@ -148,7 +148,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Java
 
-* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 146 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-13 - Java library that provides an interface to directly interact with Valve's Steam servers.
+* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 146 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-27 - Java library that provides an interface to directly interact with Valve's Steam servers.
 * [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2018-07-18 - Java port of SteamKit.
 
 ### Objective-C
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,075 | 🐛 23 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,077 | 🐛 23 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
