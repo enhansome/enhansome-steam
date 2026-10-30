@@ -23,7 +23,7 @@
                     "open_issues": 65,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1125,
+                    "stars": 1126,
                     "topics": [
                       "javascript",
                       "node",
@@ -51,7 +51,7 @@
                     "open_issues": 1,
                     "owner": "seishun",
                     "repo": "node-steam",
-                    "stars": 1000,
+                    "stars": 999,
                     "topics": [
                       "steam"
                     ]
@@ -1434,7 +1434,7 @@
                     "open_issues": 9,
                     "owner": "smiley",
                     "repo": "steamapi",
-                    "stars": 462,
+                    "stars": 461,
                     "topics": [
                       "python",
                       "rest",
@@ -1458,7 +1458,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-12T20:19:37Z",
-                    "open_issues": 9,
+                    "open_issues": 8,
                     "owner": "somespecialone",
                     "repo": "aiosteampy",
                     "stars": 109,
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1078,
+                "stars": 1079,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3832,
+                "stars": 3833,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:30:15.807Z",
+    "last_updated": "2026-10-30T18:02:06.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
