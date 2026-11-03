@@ -107,7 +107,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### PHP
 
-* [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) ⭐ 441 | 🐛 40 | 🌐 PHP | 📅 2024-01-12 - Steam OpenID authentication with PHP.
+* [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) ⭐ 440 | 🐛 40 | 🌐 PHP | 📅 2024-01-12 - Steam OpenID authentication with PHP.
 * [steam-api](https://github.com/DaMitchell/steam-api-php) ⚠️ Archived - A PHP wrapper for the Steam API.
 * [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) ⭐ 79 | 🐛 25 | 🌐 PHP | 📅 2017-10-25 - A PHP library for interacting with the Steam Community website.
 * [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) ⭐ 40 | 🐛 1 | 🌐 PHP | 📅 2021-01-08 - An object-oriented alternative to SteamAuthentication.
@@ -177,7 +177,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Tutorials
 
-* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 706 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
+* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 705 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
 * [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2020-08-08
 * [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 * [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
@@ -190,7 +190,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,834 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,835 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,221 | 🐛 33 | 🌐 C# | 📅 2026-11-02 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,221 | 🐛 33 | 🌐 C# | 📅 2026-11-02 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

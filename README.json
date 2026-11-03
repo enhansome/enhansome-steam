@@ -1118,7 +1118,7 @@
                 "open_issues": 40,
                 "owner": "SmItH197",
                 "repo": "SteamAuthentication",
-                "stars": 441,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1910,7 +1910,7 @@
                 "open_issues": 29,
                 "owner": "andrewda",
                 "repo": "node-steam-guide",
-                "stars": 706,
+                "stars": 705,
                 "topics": [
                   "bot",
                   "steam",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3834,
+                "stars": 3835,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:43:44.145Z",
+    "last_updated": "2026-11-03T19:30:33.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2126,7 +2126,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-02T20:46:48Z",
-      "open_issues": 15,
+      "open_issues": 14,
       "owner": "scholtzm",
       "repo": "awesome-steam",
       "stars": 576,
