@@ -100,10 +100,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-24T12:34:14Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": [
                       "electron",
                       "javascript",
@@ -914,11 +914,11 @@
                     "id": 10376425,
                     "language": "C#",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-11-02T16:48:55Z",
+                    "last_commit": "2026-11-05T12:21:50Z",
                     "open_issues": 33,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3222,
+                    "stars": 3223,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3837,
+                "stars": 3836,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1980,11 +1980,11 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-02T16:48:55Z",
+                "last_commit": "2026-11-05T12:21:50Z",
                 "open_issues": 33,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3222,
+                "stars": 3223,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2011,11 +2011,11 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-02T16:48:55Z",
+                "last_commit": "2026-11-05T12:21:50Z",
                 "open_issues": 33,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3222,
+                "stars": 3223,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:49:14.123Z",
+    "last_updated": "2026-11-05T20:00:20.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
