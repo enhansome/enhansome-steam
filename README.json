@@ -447,7 +447,7 @@
                     "open_issues": 4,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-gameserver",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:24:06.386Z"
@@ -915,7 +915,7 @@
                     "language": "C#",
                     "license": "LGPL-2.1",
                     "last_commit": "2026-11-06T09:14:14Z",
-                    "open_issues": 29,
+                    "open_issues": 30,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
                     "stars": 3222,
@@ -1981,7 +1981,7 @@
                 "language": "C#",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-06T09:14:14Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
                 "stars": 3222,
@@ -2012,7 +2012,7 @@
                 "language": "C#",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-06T09:14:14Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
                 "stars": 3222,
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:27:33.870Z",
+    "last_updated": "2026-11-07T17:45:32.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2126,7 +2126,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-02T20:46:48Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "scholtzm",
       "repo": "awesome-steam",
       "stars": 577,
