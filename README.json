@@ -245,7 +245,7 @@
                     "open_issues": 13,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-tradeoffer-manager",
-                    "stars": 605,
+                    "stars": 606,
                     "topics": [
                       "javascript",
                       "node",
@@ -396,7 +396,7 @@
                     "open_issues": 9,
                     "owner": "joshuaferrara",
                     "repo": "node-csgo",
-                    "stars": 464,
+                    "stars": 465,
                     "topics": [
                       "counter-strike",
                       "csgo",
@@ -475,7 +475,7 @@
                     "open_issues": 49,
                     "owner": "DoctorMcKay",
                     "repo": "node-steamcommunity",
-                    "stars": 578,
+                    "stars": 579,
                     "topics": [
                       "javascript",
                       "node",
@@ -914,11 +914,11 @@
                     "id": 10376425,
                     "language": "C#",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-11-06T09:14:14Z",
+                    "last_commit": "2026-11-10T10:37:22Z",
                     "open_issues": 30,
                     "owner": "SteamRE",
                     "repo": "SteamKit",
-                    "stars": 3224,
+                    "stars": 3225,
                     "topics": [
                       "c-sharp",
                       "networking",
@@ -1118,7 +1118,7 @@
                 "open_issues": 40,
                 "owner": "SmItH197",
                 "repo": "SteamAuthentication",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1402,7 +1402,7 @@
                     "open_issues": 90,
                     "owner": "bukson",
                     "repo": "steampy",
-                    "stars": 668,
+                    "stars": 669,
                     "topics": [
                       "linux",
                       "macos",
@@ -1434,7 +1434,7 @@
                     "open_issues": 9,
                     "owner": "smiley",
                     "repo": "steamapi",
-                    "stars": 461,
+                    "stars": 462,
                     "topics": [
                       "python",
                       "rest",
@@ -1824,7 +1824,7 @@
                 "open_issues": 23,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3838,
+                "stars": 3840,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1980,11 +1980,11 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-06T09:14:14Z",
+                "last_commit": "2026-11-10T10:37:22Z",
                 "open_issues": 30,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3224,
+                "stars": 3225,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2011,11 +2011,11 @@
                 "id": 10376425,
                 "language": "C#",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-06T09:14:14Z",
+                "last_commit": "2026-11-10T10:37:22Z",
                 "open_issues": 30,
                 "owner": "SteamRE",
                 "repo": "SteamKit",
-                "stars": 3224,
+                "stars": 3225,
                 "topics": [
                   "c-sharp",
                   "networking",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:25:35.530Z",
+    "last_updated": "2026-11-10T19:47:24.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
