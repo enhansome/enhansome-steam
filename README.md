@@ -148,7 +148,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Java
 
-* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 147 | 🐛 4 | 🌐 Kotlin | 📅 2026-11-11 - Java library that provides an interface to directly interact with Valve's Steam servers.
+* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 147 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-12 - Java library that provides an interface to directly interact with Valve's Steam servers.
 * [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2018-07-18 - Java port of SteamKit.
 
 ### Objective-C
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,084 | 🐛 22 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,085 | 🐛 22 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -190,7 +190,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,840 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,841 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,231 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,231 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

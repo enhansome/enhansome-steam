@@ -1702,8 +1702,8 @@
                 "id": 122125610,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-11T19:56:49Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-12T20:10:27Z",
+                "open_issues": 2,
                 "owner": "Longi94",
                 "repo": "JavaSteam",
                 "stars": 147,
@@ -1824,7 +1824,7 @@
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3840,
+                "stars": 3841,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:58:43.535Z",
+    "last_updated": "2026-11-13T19:46:23.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
