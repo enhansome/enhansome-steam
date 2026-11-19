@@ -36,10 +36,10 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,127 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
+* [steam-user](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,126 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - Feature-rich easy-to-use Steam client.
 * [steam](https://github.com/seishun/node-steam) ⚠️ Archived - Interface directly with Steam servers from Node.js.
 * [vapor](https://github.com/scholtzm/vapor) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-11 - Lightweight Steam client framework.
-* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 92 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-12 - A Node.js wrapper for Steamworks SDK.
+* [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) ⭐ 93 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-12 - A Node.js wrapper for Steamworks SDK.
 * [steam-client](https://github.com/DoctorMcKay/node-steam-client) ⚠️ Archived - API-compatible fork of node-steam's SteamClient.
 * [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) ⚠️ Archived - Simple base class for a Steam bot.
 
@@ -50,7 +50,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Trading
 
-* [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) ⭐ 607 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-27 - Simple and sane Steam trade offer management.
+* [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) ⭐ 606 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-27 - Simple and sane Steam trade offer management.
 * [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) ⚠️ Archived - Steam Trade Offers for Node.js.
 * [steam-trade](https://github.com/seishun/node-steam-trade) ⚠️ Archived - Node.js wrapper around Steam live trading.
 * [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-15 - Fetch inventories as readable streams.
@@ -59,13 +59,13 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Game Interaction
 
 * [dota2](https://github.com/RJacksonm1/node-dota2) ⚠️ Archived - Interact directly with Dota 2 game coordinator.
-* [csgo](https://github.com/joshuaferrara/node-csgo) ⭐ 465 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-27 - Interact directly with CS:GO game coordinator.
+* [csgo](https://github.com/joshuaferrara/node-csgo) ⭐ 464 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-27 - Interact directly with CS:GO game coordinator.
 * [tf2](https://github.com/DoctorMcKay/node-tf2) ⭐ 62 | 🐛 12 | 🌐 JavaScript | 📅 2024-03-12 - Interact directly with TF2 game coordinator.
 * [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-17 - Steam client handler for Gameserver and AnonGameserver account types.
 
 #### Community & Store Automation
 
-* [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - Interact with steamcommunity.com. Also allows to confirm trade offers.
+* [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - Interact with steamcommunity.com. Also allows to confirm trade offers.
 * [steamstore](https://github.com/DoctorMcKay/node-steamstore) ⭐ 69 | 🐛 4 | 🌐 JavaScript | 📅 2024-09-03 - Interact with store.steampowered.com.
 * [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) ⚠️ Archived - Retrieve SteamCommunity cookies if you are running Steam network client.
 * [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) ⚠️ Archived - Automatically registers and retrieves Steam API key.
@@ -107,7 +107,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### PHP
 
-* [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) ⭐ 439 | 🐛 40 | 🌐 PHP | 📅 2024-01-12 - Steam OpenID authentication with PHP.
+* [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) ⭐ 438 | 🐛 40 | 🌐 PHP | 📅 2024-01-12 - Steam OpenID authentication with PHP.
 * [steam-api](https://github.com/DaMitchell/steam-api-php) ⚠️ Archived - A PHP wrapper for the Steam API.
 * [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) ⭐ 79 | 🐛 25 | 🌐 PHP | 📅 2017-10-25 - A PHP library for interacting with the Steam Community website.
 * [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) ⭐ 40 | 🐛 1 | 🌐 PHP | 📅 2021-01-08 - An object-oriented alternative to SteamAuthentication.
@@ -125,8 +125,8 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam](https://github.com/ValvePython/steam) ⭐ 1,289 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
-* [steampy](https://github.com/bukson/steampy) ⭐ 669 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
+* [steam](https://github.com/ValvePython/steam) ⭐ 1,288 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
+* [steampy](https://github.com/bukson/steampy) ⭐ 667 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 * [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 109 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
 * [steamodd](https://github.com/Lagg/steamodd) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Steam tools library.
@@ -161,7 +161,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,088 | 🐛 22 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,090 | 🐛 22 | 🌐 Rust | 📅 2026-09-22 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -190,7 +190,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,839 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,838 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,234 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,234 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
@@ -222,4 +222,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

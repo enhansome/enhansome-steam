@@ -23,7 +23,7 @@
                     "open_issues": 65,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-user",
-                    "stars": 1127,
+                    "stars": 1126,
                     "topics": [
                       "javascript",
                       "node",
@@ -103,7 +103,7 @@
                     "open_issues": 19,
                     "owner": "ArtyProf",
                     "repo": "steamworks-ffi-node",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": [
                       "electron",
                       "javascript",
@@ -245,7 +245,7 @@
                     "open_issues": 13,
                     "owner": "DoctorMcKay",
                     "repo": "node-steam-tradeoffer-manager",
-                    "stars": 607,
+                    "stars": 606,
                     "topics": [
                       "javascript",
                       "node",
@@ -396,7 +396,7 @@
                     "open_issues": 9,
                     "owner": "joshuaferrara",
                     "repo": "node-csgo",
-                    "stars": 465,
+                    "stars": 464,
                     "topics": [
                       "counter-strike",
                       "csgo",
@@ -475,7 +475,7 @@
                     "open_issues": 49,
                     "owner": "DoctorMcKay",
                     "repo": "node-steamcommunity",
-                    "stars": 579,
+                    "stars": 578,
                     "topics": [
                       "javascript",
                       "node",
@@ -1118,7 +1118,7 @@
                 "open_issues": 40,
                 "owner": "SmItH197",
                 "repo": "SteamAuthentication",
-                "stars": 439,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1368,7 +1368,7 @@
                     "open_issues": 65,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1289,
+                    "stars": 1288,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1402,7 +1402,7 @@
                     "open_issues": 90,
                     "owner": "bukson",
                     "repo": "steampy",
-                    "stars": 669,
+                    "stars": 667,
                     "topics": [
                       "linux",
                       "macos",
@@ -1434,7 +1434,7 @@
                     "open_issues": 9,
                     "owner": "smiley",
                     "repo": "steamapi",
-                    "stars": 462,
+                    "stars": 461,
                     "topics": [
                       "python",
                       "rest",
@@ -1824,7 +1824,7 @@
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1088,
+                "stars": 1090,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -1963,7 +1963,7 @@
                 "open_issues": 319,
                 "owner": "Jessecar96",
                 "repo": "SteamDesktopAuthenticator",
-                "stars": 3839,
+                "stars": 3838,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:24:06.386Z"
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:36:31.385Z",
+    "last_updated": "2026-11-19T20:41:55.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
