@@ -1824,7 +1824,7 @@
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
-                "stars": 1091,
+                "stars": 1093,
                 "topics": [
                   "2fa",
                   "gaming",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:20:50.663Z",
+    "last_updated": "2026-11-22T19:44:54.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
@@ -2125,8 +2125,8 @@
       "id": 59688958,
       "language": null,
       "license": null,
-      "last_commit": "2026-04-02T20:46:48Z",
-      "open_issues": 18,
+      "last_commit": "2026-11-22T08:03:36Z",
+      "open_issues": 11,
       "owner": "scholtzm",
       "repo": "awesome-steam",
       "stars": 576,
@@ -2137,7 +2137,7 @@
         "steam"
       ]
     },
-    "original_repository_sha": "5df7c71148523a438d856494790a0f89f9881467",
+    "original_repository_sha": "c547a86a489f619ba0e1d024c6fa1ff0dd753cea",
     "enhanced_repository": "enhansome/enhansome-steam",
     "enhanced_repository_description": null,
     "title": "Awesome Steam with stars"

@@ -26,7 +26,6 @@ The purpose of this document is to provide a quick overview over existing packag
   * [Posts](#posts)
   * [Standalone Tools](#standalone-tools)
   * [Discussion Boards](#discussion-boards)
-  * [Third-Party Services](#third-party-services)
 
 ## Packages
 
@@ -161,7 +160,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,091 | 🐛 22 | 🌐 Rust | 📅 2026-11-21 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,093 | 🐛 22 | 🌐 Rust | 📅 2026-11-21 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -205,15 +204,6 @@ The purpose of this document is to provide a quick overview over existing packag
 * [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 * [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 
-### Third-Party Services
-
-Websites listed below may provide free and/or paid services and are listed alphabetically according to their domain name.
-
-* [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
-* [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
-* [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
-* [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -222,4 +212,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
