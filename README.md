@@ -93,7 +93,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [SteamKit2](https://github.com/SteamRE/SteamKit) ⭐ 3,239 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - .NET library designed to interoperate with Valve's Steam network.
+* [SteamKit2](https://github.com/SteamRE/SteamKit) ⭐ 3,240 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - .NET library designed to interoperate with Valve's Steam network.
 * [SteamBot](https://github.com/Jessecar96/SteamBot) ⚠️ Archived - Automated bot software for interacting with steam trade.
 * [SteamAuth](https://github.com/geel9/SteamAuth) ⭐ 318 | 🐛 25 | 🌐 C# | 📅 2026-04-25 - A C# library that provides vital Steam Mobile Authenticator functionality.
 * [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) ⭐ 49 | 🐛 4 | 🌐 C# | 📅 2017-08-19 - SteamBot fork which focuses on trade offers.
@@ -116,7 +116,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Go
 
-* [go-steam](https://github.com/Philipp15b/go-steam) ⭐ 432 | 🐛 38 | 🌐 Go | 📅 2024-03-13 - Steam's protocol in Go.
+* [go-steam](https://github.com/Philipp15b/go-steam) ⭐ 433 | 🐛 38 | 🌐 Go | 📅 2024-03-13 - Steam's protocol in Go.
 * [steam](https://github.com/0xAozora/steam) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2024-12-10 - Simple steam library for trading in Go.
 * [steam-mobileauth](https://github.com/YellowOrWhite/go-steam-mobileauth) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2016-01-07 - Port of SteamAuth in Go.
 
@@ -127,7 +127,7 @@ The purpose of this document is to provide a quick overview over existing packag
 * [steam](https://github.com/ValvePython/steam) ⭐ 1,287 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
 * [steampy](https://github.com/bukson/steampy) ⭐ 667 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
-* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 109 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
+* [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 110 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
 * [steamodd](https://github.com/Lagg/steamodd) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Steam tools library.
 * [Steam-Trade](https://github.com/Zwork101/steam-trade) ⚠️ Archived - An asynchronous, event-based trade library.
 
@@ -147,7 +147,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Java
 
-* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 146 | 🐛 3 | 🌐 Kotlin | 📅 2026-11-12 - Java library that provides an interface to directly interact with Valve's Steam servers.
+* [JavaSteam](https://github.com/Longi94/JavaSteam) ⭐ 147 | 🐛 3 | 🌐 Kotlin | 📅 2026-11-12 - Java library that provides an interface to directly interact with Valve's Steam servers.
 * [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2018-07-18 - Java port of SteamKit.
 
 ### Objective-C
@@ -160,13 +160,13 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,094 | 🐛 22 | 🌐 Rust | 📅 2026-11-21 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,096 | 🐛 22 | 🌐 Rust | 📅 2026-11-21 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
 ### General
 
-* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 652 | 🐛 2 | 🌐 HTML | 📅 2026-10-16
+* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 654 | 🐛 2 | 🌐 HTML | 📅 2026-10-16
 * [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 * [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
 * [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
@@ -176,7 +176,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Tutorials
 
-* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 706 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
+* [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide) ⭐ 707 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-05
 * [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2020-08-08
 * [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 * [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
@@ -190,8 +190,8 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Standalone Tools
 
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,839 | 🐛 319 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
-* [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,239 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Intercept Steam client's network messages.
-* [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,239 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Inspect messages dumped by NetHook2.
+* [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,240 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Intercept Steam client's network messages.
+* [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,240 | 🐛 30 | 🌐 C# | 📅 2026-11-11 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
 * [protonenv](https://github.com/rizkiarm/protonenv) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2021-05-07 - Simple Proton version and prefix management.
 * [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
@@ -212,4 +212,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
