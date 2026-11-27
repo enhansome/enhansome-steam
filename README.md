@@ -124,7 +124,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [steam](https://github.com/ValvePython/steam) ⭐ 1,287 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
+* [steam](https://github.com/ValvePython/steam) ⭐ 1,286 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - Module for various interactions with Steam.
 * [steampy](https://github.com/bukson/steampy) ⭐ 667 | 🐛 90 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 * [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 110 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - Trade and interact with Steam market, WebAPI, SteamGuard.
@@ -160,7 +160,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Rust
 
-* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,098 | 🐛 22 | 🌐 Rust | 📅 2026-11-21 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
+* [steamguard-cli](https://github.com/dyc3/steamguard-cli) ⭐ 1,098 | 🐛 22 | 🌐 Rust | 📅 2026-11-27 - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
@@ -212,4 +212,4 @@ To the extent possible under law, the author and contributors of this text have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

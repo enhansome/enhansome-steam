@@ -949,7 +949,7 @@
                     "open_issues": 78,
                     "owner": "Jessecar96",
                     "repo": "SteamBot",
-                    "stars": 1372,
+                    "stars": 1371,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:24:06.386Z"
@@ -1368,7 +1368,7 @@
                     "open_issues": 65,
                     "owner": "ValvePython",
                     "repo": "steam",
-                    "stars": 1287,
+                    "stars": 1286,
                     "topics": [
                       "authentication",
                       "authenticator",
@@ -1820,7 +1820,7 @@
                 "id": 66282276,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T16:55:58Z",
+                "last_commit": "2026-11-27T03:39:00Z",
                 "open_issues": 22,
                 "owner": "dyc3",
                 "repo": "steamguard-cli",
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:38:10.673Z",
+    "last_updated": "2026-11-27T21:22:13.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of packages and resources regarding Steam development",
